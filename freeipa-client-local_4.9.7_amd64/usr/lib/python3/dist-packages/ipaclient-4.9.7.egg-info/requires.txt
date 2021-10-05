@@ -1,0 +1,15 @@
+cryptography>=1.6
+ipalib==4.9.7
+ipapython==4.9.7
+qrcode>=5.0
+six
+
+[install]
+ipaplatform
+
+[ldap]
+python-ldap
+
+[otptoken_yubikey]
+python-yubico
+pyusb

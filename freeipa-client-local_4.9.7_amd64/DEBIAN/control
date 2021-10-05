@@ -1,0 +1,6 @@
+Package: freeipa-client-local
+Version: 4.9.7
+Depends: python3, python3-gssapi, python3-dnspython, python3-netifaces, python3-netaddr, python3-pyasn1, python3-pyasn1-modules, python3-dbus, python3-ldap, python3-augeas, chrony, keyutils, python3-qrcode, dnsutils, curl, certmonger, krb5-user, libnss3-tools, libsss-sudo, libxmlrpc-core-c3, sssd, krb5-config, oddjob-mkhomedir, libkrb5-3, libk5crypto3, libnss3-tools, libpam-sss, libnss3, python-is-python3
+Architecture: amd64
+Maintainer: Jay Heidecker <jheidecker@seekintoo.com>
+Description: It works!

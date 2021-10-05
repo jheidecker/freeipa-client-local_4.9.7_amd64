@@ -1,0 +1,9 @@
+ipaplatform==4.9.7
+ipapython==4.9.7
+netaddr
+pyasn1
+pyasn1-modules
+six
+
+[install]
+dbus-python

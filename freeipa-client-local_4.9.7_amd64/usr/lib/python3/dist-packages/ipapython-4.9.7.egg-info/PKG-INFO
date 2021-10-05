@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: ipapython
+Version: 4.9.7
+Summary: FreeIPA python support library
+Home-page: https://www.freeipa.org/
+Author: FreeIPA Developers
+Author-email: freeipa-devel@lists.fedorahosted.org
+Maintainer: FreeIPA Developers
+Maintainer-email: freeipa-devel@redhat.com
+License: GPLv3
+Download-URL: https://www.freeipa.org/page/Downloads
+Description: FreeIPA python support library
+        
+Platform: Linux
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Topic :: Internet :: Name Service (DNS)
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Systems Administration :: Authentication/Directory :: LDAP
+Requires-Python: >=3.6.0
+Provides-Extra: ldap
+Provides-Extra: netifaces

@@ -1,0 +1,4 @@
+cffi
+ipapython==4.9.7
+pyasn1
+six

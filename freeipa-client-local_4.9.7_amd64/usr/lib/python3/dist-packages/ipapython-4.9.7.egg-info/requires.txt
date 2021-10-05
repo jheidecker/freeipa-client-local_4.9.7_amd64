@@ -1,0 +1,13 @@
+cffi
+cryptography>=1.6
+dnspython>=1.15
+gssapi>=1.2.0
+ipaplatform==4.9.7
+netaddr
+six
+
+[ldap]
+python-ldap
+
+[netifaces]
+netifaces
